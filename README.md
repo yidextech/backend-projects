@@ -1,2 +1,2 @@
-# beginner-python-projects
-A collection of beginner-friendly Python projects
+# backed-python-projects
+A collection of backend projects I have been working on 
