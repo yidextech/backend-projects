@@ -40,12 +40,9 @@ task-tracker-cli/
 ### Clone the repository
 
 ```bash
-git clone <YOUR_REPOSITORY_URL>
-cd task-tracker-cli
+git clone https://github.com/yidextech/backend-projects/edit/main/01-Task_Tracker
+cd 01-Task_Tracker
 ```
-
-Replace `<YOUR_REPOSITORY_URL>` with your GitHub repository URL.
-
 ---
 
 ## Requirements
