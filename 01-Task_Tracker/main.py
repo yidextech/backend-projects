@@ -103,7 +103,7 @@ def emoji_gen(status="todo"):
         return "🟢"
     return "🔴"
 
-def delete(task_id):
+def delete_task(task_id):
     task_to_delete = ""
     tasks = read()
     for task in tasks:
@@ -116,5 +116,4 @@ def delete(task_id):
         return "Task deleted!"
     return "Task doesn't exist"
 
-delete(6)
-list()
+
